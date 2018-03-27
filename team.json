@@ -1,0 +1,19 @@
+{
+  "squadName": "FC UNIVERSITY",
+  "homeTown": "Minsk",
+  "formed": 2011,
+  "members": [
+    {
+	  "number": "95",
+      "FIO": "Косач Павел Андреевич",
+      "birthday": 17.10.1995,
+      "place_of_birthday": "город Минск, Республика Беларусь",
+    },
+    {
+	  "number": "13",
+      "FIO": "Боярчук Владислав Олегович",
+      "birthday": 17.10.1996,
+      "place_of_birthday": "город Минск, Республика Беларусь",
+    }
+  ]
+}
